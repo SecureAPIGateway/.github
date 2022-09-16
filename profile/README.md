@@ -9,7 +9,4 @@
 - [Create an Issue](https://github.com/SecureBankingAccessToolkit/SecureBankingAccessToolkit/issues/new/choose)
 - [Open Banking endpoints synopsis](https://github.com/SecureBankingAccessToolkit/SecureBankingAccessToolkit)
 
-|Adopted|
-|---|
-|![license](https://img.shields.io/github/license/ACRA/acra.svg)|
-|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](.github/CODE_OF_CONDUCT.md)|
+![license](https://img.shields.io/github/license/ACRA/acra.svg)
