@@ -11,7 +11,7 @@
 - Comes with Remote Consent Server and Consent UIs that conform to the Open Banking Customer Experience Guidelines
 
 ### Links
-- [Wiki: SAPI-G Documentation](https://github.com/SecureAPIGateway/SecureBankingAccessToolkit/wiki)
+- [Wiki: The Secure Api Gateway Documentation](https://github.com/SecureAPIGateway/SecureBankingAccessToolkit/wiki)
 - [Create an Issue](https://github.com/SecureAPIGateway/SecureBankingAccessToolkit/issues/new/choose)
 - [Open Banking endpoints synopsis](https://github.com/SecureAPIGateway/SecureBankingAccessToolkit)
 
