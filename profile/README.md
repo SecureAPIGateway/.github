@@ -2,7 +2,7 @@
 ### Secure API Gateway
 - The Secure API Gateway (SAPI-G) is an Open Source project initiated by [ForgeRock](https://www.forgerock.com/).
 - SAPI-G is a toolkit that allows users of the ForgeRock Identity Platform to quickly build a Secure API protected using FAPI standards. 
-- SBAT consists of a set of deployable components that use the ForgeRock Identity Platform to protect access to the API
+- SAPI-G consists of a set of deployable components that use the ForgeRock Identity Platform to protect access to the API
 
 ### Open Banking Edition
 - Open Banking Standards
