@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/ForgeRock/forgerock-logo-dev/master/Logo-fr-dev.png" align="right" width="220px"/>](https://developer.forgerock.com/)
+[<img src="https://avatars.githubusercontent.com/u/2592818?s=200&v=4" align="right" width="220px"/>](https://developer.forgerock.com/)
 ### Secure API Gateway
 - The Secure API Gateway (SAPI-G) is an Open Source project initiated by [ForgeRock](https://www.forgerock.com/).
 - SAPI-G is a toolkit that allows users of the ForgeRock Identity Platform to quickly build a Secure API protected using FAPI standards. 
