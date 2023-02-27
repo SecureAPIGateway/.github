@@ -14,8 +14,8 @@
 **Currently we are in the process of renaming a large number of repositories in preparation for the release of v1.0.0 of the Secure API Gateway. We are renaming repositories and java/groovy package names to align with the move from the Project name of Secure Banking Access Toolkit (SBAT), to Secure API Gateway (SAPI-G).**
 
 ### Links
-- [Wiki: The Secure Api Gateway Documentation](https://github.com/SecureAPIGateway/SecureBankingAccessToolkit/wiki)
-- [Create an Issue](https://github.com/SecureAPIGateway/SecureBankingAccessToolkit/issues/new/choose)
-- [Open Banking endpoints synopsis](https://github.com/SecureAPIGateway/SecureBankingAccessToolkit)
+- [Wiki: The Secure Api Gateway Documentation](https://github.com/SecureAPIGateway/SecureApiGateway/wiki)
+- [Create an Issue](https://github.com/SecureAPIGateway/SecureApiGateway/issues/new/choose)
+- [Open Banking endpoints synopsis](https://github.com/SecureAPIGateway/SecureApiGateway)
 
 ![license](https://img.shields.io/github/license/ACRA/acra.svg)
