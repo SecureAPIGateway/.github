@@ -4,14 +4,12 @@
 - The SAPI-G uses [ForgeRock's Identity Platform](https://www.forgerock.com/platform/identity-cloud) and [Identity Gateway](https://www.forgerock.com/platform/identity-gateway) to provide Identity and Access Management that allows rapid development of secure APIs.
 - Built to protect APIs to [Financial API (FAPI)](https://openid.net/wg/fapi/) standard
 
-### Open Banking Edition
-- Open Banking Standards
-- Open Banking Security profile (based on FAPI) protection of a full suite of Open Banking APIs
-- Comes with Mock Bank reference implementation so you can quickly stand up and Open Banking test facility
-- Comes with Remote Consent Server and Consent UIs that conform to the Open Banking Customer Experience Guidelines
-
-## WARNING
-**Currently we are in the process of renaming a large number of repositories in preparation for the release of v1.0.0 of the Secure API Gateway. We are renaming repositories and java/groovy package names to align with the move from the Project name of Secure Banking Access Toolkit (SBAT), to Secure API Gateway (SAPI-G).**
+## v1.0.0 is here
+After more than two years in development the Secure API Gateway team are proud to release v1.0.0. This release includes;
+- Financial-grade API (FAPI) security
+- Built to allow FAPI grade protection of custome APIs - provide revenue generating APIs alongside the mandatory OB/PSD2 APIs
+- A complete set of protected UK Open Banking API account and payment endpoints
+- A 'test facility' bank - allows an Open Banking Test facility to be created in hours not months
 
 ### Links
 - [Wiki: The Secure Api Gateway Documentation](https://github.com/SecureAPIGateway/SecureApiGateway/wiki)
