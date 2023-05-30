@@ -35,6 +35,6 @@ the ForgeRock Identity Platform that meet ASPSP API requirements.
 - [Wiki: The Secure Api Gateway Documentation](https://github.com/SecureAPIGateway/SecureApiGateway/wiki)
 - [Create an Issue](https://github.com/SecureAPIGateway/SecureApiGateway/issues/new/choose)
 - [Open Banking endpoints synopsis](https://github.com/SecureAPIGateway/SecureApiGateway)
-- [Zenhub](https://github.com/SecureApiGateway/SecureApiGateway#zenhub)
+- [Zenhub](https://github.com/SecureApiGateway/SecureApiGateway#workspaces/development-625027a2231bd8001f38d79f/board)
 
 ![license](https://img.shields.io/github/license/ACRA/acra.svg)
