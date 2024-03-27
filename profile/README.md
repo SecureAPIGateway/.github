@@ -1,4 +1,4 @@
-[<img src="https://avatars.githubusercontent.com/u/2592818?s=200&v=4" align="right" width="110px"/>](https://developer.forgerock.com/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XynWWph6GEq93PLSaEzRbtsaN1Uhz1AI02DYyWSrrg&s" align="right" width="110px"/>](https://developer.pingidentity.com/en.html)
 
 
 ## Unify your Open Banking architectures and join the Custom API revolution!
